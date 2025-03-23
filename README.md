@@ -1,4 +1,4 @@
-# 👋 andrewngyn / README.md
+# 👋 andrewngyn
 
 ## 📚 Currently learning
 - Python
