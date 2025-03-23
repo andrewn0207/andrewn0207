@@ -1,4 +1,4 @@
-# 👋 andrewngyn
+# 👋 I'm Andrew Nguyen! 
 
 ## 📚 Currently learning
 - Python
