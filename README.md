@@ -7,3 +7,5 @@
 ## 💻 Future languages
 - Javascript
 - C++ 
+## 🏗️ Projects
+-🎮 [rock, paper, scissors!](https://github.com/andrewn0207/python-personal-projects/blob/main/rockpaperscissors.py) - py.
